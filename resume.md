@@ -28,7 +28,7 @@ My ultimate goal is to create useful, accessible, and inclusive products that le
 - Help in rework and modernization of ML/DL/CV courses
 - Help students with homework and check assignments
 
-### Self-driven Open Source Projects (October 2021 - Present)
+### Self-driven Open Source Projects (February 2021 - Present)
 
 **Data Scientist/Machine Learning Engineer**
 
