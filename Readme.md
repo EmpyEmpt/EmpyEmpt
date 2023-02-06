@@ -4,7 +4,7 @@
 👨‍🔬 Computer vision enthusiast  
 🦕 Creating some things, reading some research  
 🐬 Trying to be useful  
-🍕 Loving animals  
+🍕 Animal fanatic
 
 While you are here maybe chechout my janky [wesite](https://empyempt.github.io/Portfolio/#/)? ([designed by](https://t.me/ifindivy))
 
