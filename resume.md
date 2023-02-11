@@ -25,7 +25,7 @@ As a skilled **machine learning** and **deep learning** professional, I have a s
 
 - Created AI assisted video surveillance system for couting the number of people on campus, Role: *Team Lead*
 - [Contibuted to research paper on anemia (ML + analysis of tabular data - presence/absence of antigens)](https://github.com/EmpyEmpt/Anemia-modeling)
-- Implemented a recommendation system for mobile app
+- Implemented a recommendation system that offers relevant campus activities for students
 - Created a data mart of student records for over 10 years
 - Read several lectures on machine learning
 
@@ -59,8 +59,8 @@ As a skilled **machine learning** and **deep learning** professional, I have a s
 
 - *Languages*: Python, C++, and Flutter/Dart
 - *ML Fields*: Computer vision, time-series and tabular data analysis and modeling, NLP, model optimization
-- *Libraries*: TensorFlow, PyTorch, matplotlib, seaborn, fastapi, sklearn, wandb, airflow, albumentations, tensorrt, onnx, and more
-- *MLOps*: Model deployment, ETL pipelining
+- *Libraries*: TensorFlow, PyTorch, matplotlib, seaborn, fastapi, sklearn, albumentations, tensorrt, onnx, and more
+- *MLOps*: Model deployment, Docker, airflow, dvc, wandb
 - *Databases*: PostgreSQL and other RDBMS
 - *Spoken languages*: fluent in English and Russian
 
@@ -82,4 +82,4 @@ Most notably:
 
 - Bachelor in Data Analysis, 2024, Ulyanovsk State University
   - Average GPA: 4.6
-- Wrote a term paper on the topic of *"Neural network model for solving the problem of predicting the risk of developing acute ischemic stroke (AIS)"*
+- Paper: *"Deep learning in predicting risk of acute ischemic stroke (AIS)"*
