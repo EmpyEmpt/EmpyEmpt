@@ -7,21 +7,39 @@ Telegram: @empyempt
 
 ## Professional Summary
 
-As a self-driven and highly motivated individual, I am always seeking out new opportunities to learn and grow as a professional. With a strong foundation in machine learning and programming, I am confident in my ability to tackle complex projects and find innovative solutions not only to challenging but also to mundane problems. In addition to my technical skills, I am a strong team player and have a proven track record of effectively collaborating with others. I'm dedicated to delivering high-quality results. My ultimate goal is to create useful, accessible, and inclusive products that leverage the power of big data and carefully designed ML/DL pipelines. I believe that the future of many industries lies in the careful and responsible utilization of large datasets and ML solutions.
+Senior ML Engineer (Computer Vision & Multimodal) with 4+ years building production systems end-to-end. Led an AI-assisted judging platform for rhythmic gymnastics: multi-model video/audio/VLM pipeline achieving near-real-time performance at live events. Comfortable owning the whole stack: R&D -> training -> optimization (distillation/quantization/TensorRT) -> MLOps (Triton/ONNX/Docker/K8s) -> web/mobile delivery.
 
 ## Key skills
 
-Skilled **machine learning -** and **deep learning -** engineer, I have a strong foundation in **Python** and **C++**, I'm proficient in a variety of relevant libraries including **Pandas**, **Pytorch**, **scikit-learn**, **numpy** (beyond array creation) and many others. I am experienced in using **Git** and **DVC** for version control and **collaboration**, and have a solid understanding of **MLOps practices** for **deploying and managing models in production environments**. I've extensive experience in working within constrained time and resource budget. In addition to my technical skills, I have strong problem-solving and analytical abilities and am able to effectively interpret and analyze data and reseach papers to inform my decision making.
+- Computer Vision & Video: 2D/3D pose, tracking, action/temporal recognition, keypoints, motion analysis; video understanding at scale.
+- Multimodal: Video + audio + VLM (vision-language); alignment, captioning, rule-compliance checks.
+- Modeling: PyTorch, DDP/FSDP multi-node, distillation, quantization; TensorRT, ONNX Runtime.
+- Inference & MLOps: Triton, FastAPI/gRPC, batch/stream; Docker, CI/CD; DVC, MLflow/W&B.
+- Streaming & Systems: ffmpeg, NVENC/NVDEC, RTSP/RTMP/SRT/NDI/WebRTC; Kafka/Redis; Nginx.
+- Python Backend: FastAPI, Pydantic, SQLAlchemy/Alembic, PostgreSQL, Redis, Celery, REST/gRPC & WebSocket APIs, OAuth2/JWT auth, pytest, uvicorn/gunicorn, Nginx, Docker.
+- Data & Storage: PostgreSQL, Milvus/Vector DBs; data versioning, curation, labeling ops.
+- Languages: Python, C++, Dart/Flutter, JS, Bash.
+- GPU & Perf: CUDA/cuDNN, profiling (Nsight), latency/throughput tuning.
+- Product & Teaming: tech leadership, mentorship, stakeholder comms, live-ops readiness.
 
 ---
 
 ## Experience
 
-***3+ Years of experience in the field***
+***4+ Years of experience in the field***
 
-### M*iddle Machine Learning Engineer* at Nanosemantics
+### *Senior Machine Learning & Full-Stack Engineer* at Sber AI
 
-*(April 2023 - Present)*
+*(August 2024 – Present)*
+
+- Built *the world’s first AI-assisted judging system for rhythmic gymnastics*, automating previously subjective scoring and introducing a new industry standard.
+- Architected a complex, near real-time pipeline integrating a dozen SOTA ML models across multiple modalities — video, audio, and vision-language models to analyze both visual and audio performance criteria.
+- Streamlined competition workflows and significantly reduced manual scoring overhead, deploying the system in live events (november 2025, Beijing, Sky Grace Cup) and setting a new benchmark for AI in sports judging.
+- Combined hands-on development with team leadership: onboarded and led a small development team (4 people), presented milestones to stakeholders, and ensured robust deployment using MLOps and DevOps best practices.
+
+### *Middle Machine Learning Engineer* at Nanosemantics
+
+*(April 2023 - August 2024)*
 
 - Trained and deployed SOTA person identification pipeline (based on face recognition)
 - Created SOTA Russian sign language recognition and Russian lip reading models which work real-time on mobile devices
@@ -41,24 +59,14 @@ Skilled **machine learning -** and **deep learning -** engineer, I have a strong
 
 ### *Teacher/Mentor* at OTUS Online School
 
-*(October 2022 - Present)*
+*(October 2022 - August 2024)*
 
 - Mentored over 100 students with homework and graduation works
 - Reworked and modernized ML, DL and Computer Vision courses
 
 ---
 
-## Skills
-
-- *Languages*: Python, Mojo, C++, and Dart + Flutter
-- *ML Fields*: Computer vision, time-series and tabular data analysis and modeling, model inference (distillation, quantization) and training (parralelism - model, data and complete FSDP) optimization 
-- *Libraries*: PyTorch, seaborn, FastAPI, sklearn, onnx, and more
-- *MLOps*: Model deployment, Docker, DVC, wandb
-- *Databases*: PostgreSQL and other RDBMS, Milvus and other Vector DBs
-- *Spoken languages*: fluent in English and Russian
-
 ## Education
 
-- Bachelor in Data Analysis, 2024, Ulyanovsk State University
-  - Average GPA: 4.6
-- Paper: *"Deep learning in predicting risk of acute ischemic stroke (AIS)"*
+- Master in CS and applied mathematics, 2026, Ulyanovsk State University
+- Bachelor in CS and applied mathematics, 2024, Ulyanovsk State University
